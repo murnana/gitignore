@@ -23,6 +23,11 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
+# Auto-generated UI Toolkit schema files
+# Unity generates these XML schema files for IntelliSense support in UI Toolkit
+# They are regenerated automatically and should not be committed
+/UIElementsSchema/
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
